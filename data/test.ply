@@ -1,0 +1,19 @@
+ply
+format ascii 1.0
+comment Vis LAB
+element vertex 4
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+element face 2
+property list uchar int vertex_index
+end_header
+0.737058  0.024701 0.056919 14 69 133
+0.725835  0.022959 0.054121 13 68 126
+0.732502  0.026351 0.066165 14 67 128
+0.75 0.026351 0.066165 14 67 128
+3 0 1 2
+3 0 1 3
